@@ -1,6 +1,6 @@
 ### Hi there👋, i am Daniel.
 
-I am a full stack web developer.
+I am a full stack developer.
 
 I am passionate about good design and software. 
 <br/>
