@@ -7,4 +7,4 @@ I am passionate about good design and software.
 I ❤️ open source. I sometimes play football⚽.
 <br/>
 <br />
-[![Daniel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=incrediblejagur)](https://github.com/anuraghazra/github-readme-stats)
+[![Daniel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@incrediblejagur)](https://github.com/anuraghazra/github-readme-stats)
