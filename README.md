@@ -1,4 +1,4 @@
-### Hi there👋,
+### Hi there👋
 
 I'm Daniel, a full stack developer.
 
