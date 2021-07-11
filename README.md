@@ -1,6 +1,6 @@
 ### Hi there👋
 
-I'm Daniel, a full stack developer.
+I'm Daniel, a software engineer.
 
 <!-- I am passionate about good design and software. -->
 <br/>
