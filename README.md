@@ -6,4 +6,4 @@ I'm Daniel, a software engineer.
 <br/>
 <!-- I ❤️ open source. I sometimes play football⚽. -->
 
-[![daniel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=incrediblejagur&langs_count=5)](https://wakatime.com/@incrediblejagur)
+<!-- [![daniel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=incrediblejagur&langs_count=5)](https://wakatime.com/@incrediblejagur) -->
