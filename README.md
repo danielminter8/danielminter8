@@ -1,6 +1,6 @@
 ### Hi there👋
 
-I'm Daniel, a <strike>gopher</strike> software engineer.
+I'm Daniel, a software engineer.
 
 <!-- I am passionate about good design and software. -->
 <br/>
