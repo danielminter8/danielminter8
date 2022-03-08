@@ -1,9 +1,9 @@
 ### Hi there👋
 
-I'm Daniel, a software engineer.
-
+<!-- I'm Daniel, a software engineer.
+ -->
 <!-- I am passionate about good design and software. -->
-<br/>
+<!-- <br/> -->
 <!-- I ❤️ open source. I sometimes play football⚽. -->
 
 <!-- [![daniel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=incrediblejagur&langs_count=5)](https://wakatime.com/@incrediblejagur) -->
